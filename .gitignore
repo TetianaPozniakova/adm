@@ -122,3 +122,5 @@ pip-selfcheck.json
 
 # temp
 temp/
+adm/settings_prod.py
+adm/settings_dev.py
